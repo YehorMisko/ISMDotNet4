@@ -1,0 +1,13 @@
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\bin\Release\ISMDotNet4.exe.config
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\bin\Release\ISMDotNet4.exe
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\bin\Release\ISMDotNet4.pdb
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\bin\Release\ArrayClassLibrary.dll
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\bin\Release\ArrayClassLibrary.pdb
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.csprojAssemblyReference.cache
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.Form1.resources
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.Properties.Resources.resources
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.csproj.GenerateResource.cache
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.csproj.CopyComplete
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.exe
+C:\Users\jayde\source\repos\ISMDotNet4\ISMDotNet4\obj\Release\ISMDotNet4.pdb
